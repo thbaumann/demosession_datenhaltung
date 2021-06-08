@@ -1,0 +1,4 @@
+Lizenzen:
+https://postgis.net/workshops/postgis-intro/license.html
+https://gis.stackexchange.com/help/licensing
+https://blog.crunchydata.com ?
